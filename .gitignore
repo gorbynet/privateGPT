@@ -8,6 +8,10 @@ models/
 .chroma/
 db/
 
+# Documents
+*.pdf
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
